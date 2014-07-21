@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Momotaro",
+		"age": 16,
+		"follower": ["monkey", "bird", "dog"]
+	},
+	{
+		"name": "Kintaro",
+		"age": 14,
+		"follower": ["bear"]
+	}
+]
